@@ -11,14 +11,14 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mistral-colab/blob/main/Mistral_colab.ipynb) | Mistral_colab (Mistral-7B-Instruct-v0.1)
 
 ## Main Repo
-https://github.com/mistralai/mistral-src
-https://github.com/openai/whisper
-https://github.com/coqui-ai/TTS
-https://huggingface.co/spaces/ylacombe/voice-chat-with-mistral/tree/main (modified)
+https://github.com/mistralai/mistral-src <br />
+https://github.com/openai/whisper <br />
+https://github.com/coqui-ai/TTS <br />
+https://huggingface.co/spaces/ylacombe/voice-chat-with-mistral/tree/main (modified) <br />
 
 ## Paper
-https://mistral.ai/news/announcing-mistral-7b/
-https://arxiv.org/abs/2212.04356
+https://mistral.ai/news/announcing-mistral-7b/ <br />
+https://arxiv.org/abs/2212.04356 <br />
 
 ## Page
 https://mistral.ai/
