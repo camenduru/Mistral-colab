@@ -9,7 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mistral-colab/blob/main/Mistral_colab.ipynb) | Mistral_colab (Mistral-7B-Instruct-v0.1)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mistral-colab/blob/main/Mistral_text_generation_webui.ipynb) | Mistral_text_generation_webui (8bit) (Mistral-7B-Instruct-v0.1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mistral-colab/blob/main/Mistral_text_generation_webui.ipynb) | Mistral_text_generation_webui (8bit) (Mistral-7B-Instruct-v0.1) Thanks to [@oobabooga](https://github.com/oobabooga/text-generation-webui) ❤
 
 ## Main Repo
 https://github.com/mistralai/mistral-src <br />
