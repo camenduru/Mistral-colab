@@ -25,3 +25,5 @@ https://mistral.ai/
 
 ## Output
 ![image](https://github.com/camenduru/Mistral-colab/assets/54370274/7d74acf5-4659-4235-be6d-75b4396520d9)
+
+![Screenshot 2023-10-09 195917](https://github.com/camenduru/Mistral-colab/assets/54370274/3d691d32-bbea-4d3e-988e-b37b3db5c83e)
