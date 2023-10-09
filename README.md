@@ -14,6 +14,7 @@
 https://github.com/mistralai/mistral-src
 https://github.com/openai/whisper
 https://github.com/coqui-ai/TTS
+https://huggingface.co/spaces/ylacombe/voice-chat-with-mistral/tree/main (modified)
 
 ## Paper
 https://mistral.ai/news/announcing-mistral-7b/
