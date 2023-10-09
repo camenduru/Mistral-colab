@@ -12,9 +12,12 @@
 
 ## Main Repo
 https://github.com/mistralai/mistral-src
+https://github.com/openai/whisper
+https://github.com/coqui-ai/TTS
 
 ## Paper
 https://mistral.ai/news/announcing-mistral-7b/
+https://arxiv.org/abs/2212.04356
 
 ## Page
 https://mistral.ai/
